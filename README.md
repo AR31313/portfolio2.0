@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/96843377/181918385-2bd0ed80-69ba-4e8d-91ea-dc74c17e45eb.png)
+![image](https://user-images.githubusercontent.com/96843377/181918437-c10ca611-282f-43b1-9505-d6be7aae7100.png)
+
 
 ## Application deployed at live URL: https://ar31313.github.io/portfolio2.0/
 
