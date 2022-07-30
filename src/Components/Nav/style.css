@@ -1,3 +1,4 @@
-h1 {
+.test {
     color: rgb(21, 255, 0) !important;
+    background-color: red;
 }

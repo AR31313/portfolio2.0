@@ -1,0 +1,83 @@
+{
+    "name": "Hello ",
+    "headerTaglineOne": "I'm Avi 👋 ",
+    "headerTaglineTwo": "Designer and Devloper",
+    "headerTaglineThree": "Solution-focused",
+    "headerTaglineFour": "Critical-thinker",
+    "showBlog": true,
+    "socials": [
+        {
+            "title": "Github",
+            "link": "https://github.com/AR31313"
+        },
+        {
+            "title": "LinkedIn",
+            "link": "https://www.linkedin.com/in/yay4avi/"
+        },
+        {
+            "title": "GIS Portfolio",
+            "link": "https://yay4avi.wixsite.com/gisportfolio"
+        },
+        {
+            "title": "Business",
+            "link": "https://www.anuranaskitchen.com/"
+        },
+        {
+            "title": "Email",
+            "link": "mailto:yay4avi@uw.edu"
+        }
+    ],
+    "projects": [
+        {
+            "id": "2",
+            "title": "Employee Management System",
+            "description": "Command-line application to manage a database.",
+            "imageSrc": "https://user-images.githubusercontent.com/96843377/181689038-76686611-df28-4075-b9a5-e82bb8dbabb5.png",
+            "url": "https://github.com/AR31313/EmployeeManagement_System"
+        },
+        {
+            "id": "3",
+            "title": "Scheduler",
+            "description": "Feature dynamically updated HTML and CSS powered by jQuery",
+            "imageSrc": "https://user-images.githubusercontent.com/96843377/181689796-fbb9e22f-9f1f-4591-8c68-25fb7cc69ea3.png",
+            "url": "https://github.com/AR31313/scheduler"
+        },
+        {
+            "id": "1",
+            "title": "Password Generator",
+            "description": "API for a backend social network site that uses a NoSQL database.",
+            "imageSrc": "https://user-images.githubusercontent.com/96843377/181689755-ba7f4b3a-bead-4ceb-a8a9-8a8da0604c48.png",
+            "url": "https://ar31313.github.io/password_generator/"
+        },
+        {
+            "id": "4",
+            "title": "NPS Hike Search Tool",
+            "description": "The application uses the National Park Service API to return the list of hiking activities as well as the coordinates.",
+            "imageSrc": "https://user-images.githubusercontent.com/96843377/181690165-8154548b-480e-4ac9-8916-c972b01a5b5d.png",
+            "url": "https://github.com/AR31313/NPSHikeSearchTool"
+        }
+    ],
+    "services": [
+        {
+            "id": "1",
+            "title": "Web Developer",
+            "description": "Earned Certificate in Full Stack Web Development from University of Washington. Skills in HTML, CSS & JavaScript; proficient with Microsoft Office, Adobe Photoshop, Esri & ArcGIS programs as well as Quickbooks"
+        },
+        {
+            "id": "2",
+            "title": "GIS Mapping & Analysis",
+            "description": "Earned Geographic Information Systems Certificate from University of Washington. Has Excellent cartographic techniques, spatial analysis ability & can create professional-quality graphic representations of social environmental and economic conditions. "
+        },
+        {
+            "id": "3",
+            "title": "Environmental Scientist",
+            "description": "Earned Bachelor of Science with Environmental Focus from University of Washington. Extensive data analysis experience, field sampling, etc."
+        },
+        {
+            "id": "4",
+            "title": "Entrepreneur",
+            "description": "Started a business from the ground up and have been successfully running it for the last eight years with continued growth and resilience."
+        }
+    ],
+    "aboutpara": "Front-end Web Developer with background in Business Management, Environmental Science with extensive GIS Experience. Earned Certificate in Full Stack Web Development, GIS and Bachelor of Science Degree from University of Washington. Skills in Mongo, Express, React & Node; proficient with Microsoft Office, Esri & ArcGIS programs as well as Quickbooks. Known as a highly motivated problem solver with a strong commitment to continually learning new things and developing myself professionally."
+}
